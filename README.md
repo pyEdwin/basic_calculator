@@ -1,0 +1,1 @@
+It is a basic calculator that do : multiplication, division , addition, and soustration
